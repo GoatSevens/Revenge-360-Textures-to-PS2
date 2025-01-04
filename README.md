@@ -8,6 +8,9 @@ It's like Burnout Revenge had a PC version.
 > 
 > Only tested on SLUS-21242
 >
+> Download:
+> * Clone the repository by clicking "Download Zip"
+>
 > Installation:
 > * Simply drag and drop the "replacements" folder to PCSX2\textures\SLUS-21242
 > * Set "Load Textures" to "On" under the "Texture Replacement" tab.
