@@ -23,4 +23,18 @@ It's like Burnout Revenge had a PC version.
 > * Vehicle props (like the barrels, boxes, and sacks) have been 360-fied although some are missed due to the (observed) rarity of these props appearing.
 > * 99% of the textures in each track has been covered. There could still be some textures missed but are not noticable under normal gameplay.
 
+### Screenshots
+![](screenshots/Angel%20Valley.png)
+![](screenshots/Lone%20Peak.png)
+![](screenshots/Motor%20CIty.png)
+![](screenshots/Sunshine%20Keys.png)
+![](screenshots/Eternal%20City.png)
+![](screenshots/White%20Mountain.png)
+![](screenshots/Central%20Route.png)
+![](screenshots/Eastern%20Bay.png)
+
 ### Comparison
+Before:
+![](screenshots/Comparison%20-%20Before.png)
+After:
+![](screenshots/Comparison%20-%20After.png)
