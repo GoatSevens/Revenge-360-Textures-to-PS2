@@ -1,4 +1,4 @@
-# Revenge-360-Tracks-Props-Textures-to-PS2
+# Revenge-360-Tracks-&-Props-Textures-to-PS2
 by TheGoat07s
 
 It's like Burnout Revenge had a PC version.
